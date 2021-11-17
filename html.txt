@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Untitled PokePaste</title>
+		<link rel="stylesheet" href="/css/paste.css">
+		<meta name="robots" content="noindex">
+	</head>
+	<body>
+		<article>
+			<div class="img">
+				<img class="img-pokemon" src="/img/pokemon/637-0.png">
+				<img class="img-item" src="/img/items/270.png">
+			</div>
+			<pre><span class="type-bug">Volcarona</span> @ Life Orb  
+<span class="attr">Ability: </span>Flame Body  
+<span class="attr">EVs: </span><span class="stat-hp">16 HP</span> / <span class="stat-def">204 Def</span> / <span class="stat-spa">36 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Modest Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-normal">-</span> Protect  
+<span class="type-bug">-</span> Bug Buzz  
+<span class="type-fire">-</span> Heat Wave  
+<span class="type-bug">-</span> Rage Powder  
+
+</pre>
+		</article>
+		<article>
+			<div class="img">
+				<img class="img-pokemon" src="/img/pokemon/646-2.png">
+				<img class="img-item" src="/img/items/639.png">
+			</div>
+			<pre><span class="type-dragon">Kyurem-Black</span> @ Weakness Policy  
+<span class="attr">Ability: </span>Teravolt  
+<span class="attr">EVs: </span><span class="stat-hp">8 HP</span> / <span class="stat-def">236 Def</span> / <span class="stat-spa">128 SpA</span> / <span class="stat-spe">136 Spe</span>  
+Naive Nature  
+<span class="type-normal">-</span> Protect  
+<span class="type-ice">-</span> Ice Beam  
+<span class="type-ground">-</span> Earth Power  
+<span class="type-electric">-</span> Fusion Bolt  
+
+</pre>
+		</article>
+		<article>
+			<div class="img">
+				<img class="img-pokemon" src="/img/pokemon/645-1.png">
+				<img class="img-item" src="/img/items/188.png">
+			</div>
+			<pre><span class="type-ground">Landorus-Therian</span> (<span class="gender-m">M</span>) @ <span class="type-ice">Yache Berry</span>  
+<span class="attr">Ability: </span>Intimidate  
+<span class="attr">EVs: </span><span class="stat-hp">16 HP</span> / <span class="stat-atk">96 Atk</span> / <span class="stat-def">80 Def</span> / <span class="stat-spa">64 SpA</span> / <span class="stat-spe">252 Spe</span>  
+Timid Nature  
+<span class="type-normal">-</span> Protect  
+<span class="type-ground">-</span> Earth Power  
+<span class="type-poison">-</span> Sludge Bomb  
+<span class="type-bug">-</span> U-turn  
+
+</pre>
+		</article>
+		<article>
+			<div class="img">
+				<img class="img-pokemon" src="/img/pokemon/788-0.png">
+				<img class="img-item" src="/img/items/639.png">
+			</div>
+			<pre><span class="type-water">Tapu Fini</span> @ Weakness Policy  
+<span class="attr">Ability: </span>Misty Surge  
+<span class="attr">EVs: </span><span class="stat-hp">252 HP</span> / <span class="stat-def">64 Def</span> / <span class="stat-spa">52 SpA</span> / <span class="stat-spe">140 Spe</span>  
+Bold Nature  
+<span class="attr">IVs: </span><span class="stat-atk">0 Atk</span>  
+<span class="type-normal">-</span> Protect  
+<span class="type-water">-</span> Hydro Pump  
+<span class="type-fairy">-</span> Moonblast  
+<span class="type-dark">-</span> Taunt  
+
+</pre>
+		</article>
+		<aside>
+			<p>idt landot was the choice for this team </p>
+			<input id="vgcmode" type="checkbox">
+			<label for="vgcmode">Columns Mode</label> / 
+			<input id="evivmode" type="checkbox">
+			<label for="evivmode">Stat Colours</label> / 
+			<input id="lightmode" type="checkbox">
+			<label for="lightmode">Light Mode</label>
+		</aside>
+		<script src="/js/preferences.js"></script>
+	</body>
+</html>

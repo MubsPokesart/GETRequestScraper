@@ -1,0 +1,1596 @@
+
+=== [gen7doublesou] Titled 1427 ===
+			
+
+nico nico (Ninetales-Alola) @ Life Orb  
+Ability: Snow Warning  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Blizzard  
+- Freeze-Dry  
+- Moonblast  			
+
+Victini @ Life Orb  
+Ability: Victory Star  
+EVs: 16 HP / 92 Def / 184 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Blue Flare  
+- Psychic  
+- Taunt  			
+
+Scrafty @ Assault Vest  
+Ability: Intimidate  
+EVs: 248 HP / 24 Atk / 52 Def / 176 SpD / 8 Spe  
+Careful Nature  
+- Fake Out  
+- Crunch  
+- Drain Punch  
+- Ice Punch  			
+
+Swampert-Mega @ Swampertite  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Protect  
+- Waterfall  
+- Stomping Tantrum  
+- Bulldoze  
+
+=== [gen7doublesou] Titled 3921 ===
+			
+
+Shaymin-Sky @ Life Orb  
+Ability: Serene Grace  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Seed Flare  
+- Air Slash  
+- Earth Power  			
+
+Volcarona @ Life Orb  
+Ability: Flame Body  
+EVs: 16 HP / 204 Def / 36 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Bug Buzz  
+- Heat Wave  
+- Rage Powder  			
+
+Hoopa-Unbound @ Choice Scarf  
+Ability: Magician  
+EVs: 108 Atk / 148 SpA / 252 Spe  
+Naive Nature  
+- Hyperspace Fury  
+- Hyperspace Hole  
+- Gunk Shot  
+- Trick  			
+
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Hasty Nature  
+- Protect  
+- Diamond Storm  
+- Moonblast  
+- Hidden Power [Ice]  
+
+=== [gen7doublesou] Titled 1009 ===
+			
+
+Hoopa-Unbound @ Choice Scarf  
+Ability: Magician  
+EVs: 108 Atk / 148 SpA / 252 Spe  
+Naive Nature  
+- Hyperspace Fury  
+- Hyperspace Hole  
+- Gunk Shot  
+- Trick  			
+
+Landorus (M) @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Protect  
+- Earth Power  
+- Hidden Power [Ice]  
+- Rock Slide  			
+
+Amoonguss @ Payapa Berry  
+Ability: Effect Spore  
+EVs: 252 HP / 104 Def / 40 SpA / 112 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Protect  
+- Spore  
+- Rage Powder  
+- Sludge Bomb  			
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Protect  
+- Play Rough  
+- Fire Fang  
+- Sucker Punch  
+
+=== [gen7doublesou] Titled 9398 ===
+			
+
+Aegislash @ Weakness Policy  
+Ability: Stance Change  
+EVs: 248 HP / 24 Atk / 116 Def / 100 SpD / 20 Spe  
+Adamant Nature  
+- King's Shield  
+- Iron Head  
+- Shadow Claw  
+- Shadow Sneak  			
+
+Incineroar @ Figy Berry  
+Ability: Intimidate  
+EVs: 248 HP / 20 Atk / 144 Def / 80 SpD / 16 Spe  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- Taunt  			
+
+Tapu Koko @ Shuca Berry  
+Ability: Electric Surge  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Protect  
+- Wild Charge  
+- Grass Knot  
+- Hidden Power [Ice]  			
+
+Lopunny-Mega @ Lopunnite  
+Ability: Limber  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Return  
+- High Jump Kick  
+- Ice Punch  
+
+=== [gen7doublesou] Titled 4074 ===
+			
+
+Lucario-Mega @ Lucarionite  
+Ability: Inner Focus  
+EVs: 24 HP / 36 Atk / 196 SpD / 252 Spe  
+Jolly Nature  
+- Protect  
+- Close Combat  
+- Meteor Mash  
+- Bullet Punch  			
+
+Zapdos @ Wiki Berry  
+Ability: Static  
+EVs: 244 HP / 80 Def / 64 SpA / 56 SpD / 64 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Heat Wave  
+- Tailwind  
+- Roost  			
+
+Tapu Fini @ Weakness Policy  
+Ability: Misty Surge  
+EVs: 252 HP / 64 Def / 52 SpA / 140 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Hydro Pump  
+- Moonblast  
+- Icy Wind  			
+
+Kyurem-Black @ Weakness Policy  
+Ability: Teravolt  
+EVs: 8 HP / 236 Def / 128 SpA / 136 Spe  
+Naive Nature  
+- Protect  
+- Ice Beam  
+- Earth Power  
+- Fusion Bolt  
+
+=== [gen7doublesou] Titled 6236 ===
+			
+
+Volcarona @ Life Orb  
+Ability: Flame Body  
+EVs: 16 HP / 204 Def / 36 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Bug Buzz  
+- Heat Wave  
+- Rage Powder  			
+
+Kyurem-Black @ Weakness Policy  
+Ability: Teravolt  
+EVs: 8 HP / 236 Def / 128 SpA / 136 Spe  
+Naive Nature  
+- Protect  
+- Ice Beam  
+- Earth Power  
+- Fusion Bolt  			
+
+Landorus-Therian (M) @ Yache Berry  
+Ability: Intimidate  
+EVs: 16 HP / 96 Atk / 80 Def / 64 SpA / 252 Spe  
+Timid Nature  
+- Protect  
+- Earth Power  
+- Sludge Bomb  
+- U-turn  			
+
+Tapu Fini @ Weakness Policy  
+Ability: Misty Surge  
+EVs: 252 HP / 64 Def / 52 SpA / 140 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Hydro Pump  
+- Moonblast  
+- Taunt  
+
+=== [gen7doublesou] Titled 5755 ===
+			
+
+Rotom-Wash @ Wiki Berry  
+Ability: Levitate  
+EVs: 252 HP / 56 Def / 72 SpA / 84 SpD / 44 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Protect  
+- Thunderbolt  
+- Hydro Pump  
+- Will-O-Wisp  			
+
+Incineroar @ Figy Berry  
+Ability: Intimidate  
+EVs: 248 HP / 20 Atk / 144 Def / 80 SpD / 16 Spe  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- Taunt  			
+
+Amoonguss @ Yache Berry  
+Ability: Effect Spore  
+EVs: 248 HP / 92 Def / 168 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Protect  
+- Rage Powder  
+- Spore  
+- Sludge Bomb  			
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Protect  
+- Play Rough  
+- Iron Head  
+- Sucker Punch  
+
+=== [gen7doublesou] Titled 421 ===
+			
+
+Metagross-Mega @ Metagrossite  
+Ability: Tough Claws  
+EVs: 180 HP / 100 Atk / 12 Def / 216 Spe  
+Jolly Nature  
+- Ally Switch  
+- Meteor Mash  
+- Zen Headbutt  
+- Bullet Punch  			
+
+Tapu Fini @ Weakness Policy  
+Ability: Misty Surge  
+EVs: 252 HP / 64 Def / 52 SpA / 140 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Hydro Pump  
+- Moonblast  
+- Icy Wind  			
+
+Incineroar @ Figy Berry  
+Ability: Intimidate  
+EVs: 248 HP / 20 Atk / 144 Def / 80 SpD / 16 Spe  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- Taunt  			
+
+Kyurem-Black @ Weakness Policy  
+Ability: Teravolt  
+EVs: 244 HP / 188 SpD / 76 Spe  
+Sassy Nature  
+- Ice Beam  
+- Icy Wind  
+- Fusion Bolt  
+- Earth Power  
+
+=== [gen7doublesou] Titled 367 ===
+			
+
+Kyurem-Black @ Weakness Policy  
+Ability: Teravolt  
+EVs: 8 HP / 32 Atk / 236 Def / 96 SpA / 136 Spe  
+Naive Nature  
+- Protect  
+- Ice Beam  
+- Fusion Bolt  
+- Earth Power  			
+
+Incineroar @ Figy Berry  
+Ability: Intimidate  
+EVs: 248 HP / 20 Atk / 144 Def / 80 SpD / 16 Spe  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- Taunt  			
+
+Tapu Koko @ Electric Seed  
+Ability: Electric Surge  
+EVs: 16 HP / 88 Def / 184 SpA / 220 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Thunderbolt  
+- Grass Knot  
+- Hidden Power [Ice]  			
+
+Metagross-Mega @ Metagrossite  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Protect  
+- Meteor Mash  
+- Stomping Tantrum  
+- Bullet Punch  
+
+=== [gen7doublesou] Titled 5285 ===
+			
+
+Incineroar @ Figy Berry  
+Ability: Intimidate  
+EVs: 248 HP / 20 Atk / 144 Def / 80 SpD / 16 Spe  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- Taunt  			
+
+Tapu Bulu @ Grassy Seed  
+Ability: Grassy Surge  
+EVs: 48 HP / 252 Atk / 164 SpD / 44 Spe  
+Adamant Nature  
+- Protect  
+- Wood Hammer  
+- Horn Leech  
+- Superpower  			
+
+Zygarde @ Choice Band  
+Ability: Aura Break  
+EVs: 52 HP / 252 Atk / 56 SpD / 148 Spe  
+Adamant Nature  
+- Thousand Arrows  
+- Rock Slide  
+- Superpower  
+- Extreme Speed  			
+
+Ron Get Awaay he i (Metagross-Mega) @ Metagrossite  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Stomping Tantrum  
+- Zen Headbutt  
+- Ally Switch  
+
+=== [gen7doublesou] Titled 7709 ===
+			
+
+Mew @ Sitrus Berry  
+Ability: Synchronize  
+EVs: 208 HP / 48 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- After You  
+- Helping Hand  
+- Tailwind  			
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Protect  
+- Play Rough  
+- Rock Slide  
+- Sucker Punch  			
+
+Kyurem-Black @ Assault Vest  
+Ability: Teravolt  
+EVs: 248 HP / 96 Atk / 76 Def / 8 SpA / 80 Spe  
+Quiet Nature  
+- Ice Beam  
+- Fusion Bolt  
+- Earth Power  
+- Icy Wind  			
+
+Volcarona @ Life Orb  
+Ability: Flame Body  
+EVs: 16 HP / 204 Def / 36 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Bug Buzz  
+- Heat Wave  
+- Rage Powder 
+
+=== [gen7doublesou] Titled 6899 ===
+			
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Overheat  
+- Heat Wave  
+- Solar Beam  			
+
+Gastrodon @ Rindo Berry  
+Ability: Storm Drain  
+EVs: 248 HP / 144 Def / 116 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Earth Power  
+- Toxic  
+- Recover  			
+
+Kyurem-Black @ Assault Vest  
+Ability: Teravolt  
+EVs: 248 HP / 96 Atk / 76 Def / 8 SpA / 80 Spe  
+Quiet Nature  
+- Ice Beam  
+- Fusion Bolt  
+- Earth Power  
+- Icy Wind  			
+
+Genesect @ Expert Belt  
+Ability: Download  
+EVs: 16 HP / 28 Atk / 80 SpA / 132 SpD / 252 Spe  
+Hasty Nature  
+- Protect  
+- Bug Buzz  
+- Flamethrower  
+- Gunk Shot  
+
+=== [gen7doublesou] Titled 505 ===
+			
+
+Hoopa-Unbound @ Choice Scarf  
+Ability: Magician  
+EVs: 108 Atk / 148 SpA / 252 Spe  
+Naive Nature  
+- Hyperspace Fury  
+- Hyperspace Hole  
+- Gunk Shot  
+- Trick  			
+
+Metagross-Mega @ Metagrossite  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Protect  
+- Meteor Mash  
+- Zen Headbutt  
+- Bullet Punch  			
+
+Kyurem-Black @ Chople Berry  
+Ability: Teravolt  
+EVs: 152 HP / 12 Atk / 236 Def / 108 SpA  
+Relaxed Nature  
+- Protect  
+- Dragon Claw  
+- Ice Beam  
+- Fusion Bolt  			
+
+Volcarona @ Life Orb  
+Ability: Flame Body  
+EVs: 16 HP / 204 Def / 36 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Bug Buzz  
+- Heat Wave  
+- Rage Powder  
+
+=== [gen7doublesou] Titled 813 ===
+			
+
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Protect  
+- Diamond Storm  
+- Moonblast  
+- Hidden Power [Fire]  			
+
+Hoopa-Unbound @ Choice Scarf  
+Ability: Magician  
+EVs: 108 Atk / 148 SpA / 252 Spe  
+Naive Nature  
+- Hyperspace Fury  
+- Hyperspace Hole  
+- Gunk Shot  
+- Trick  			
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Protect  
+- Play Rough  
+- Iron Head  
+- Sucker Punch  			
+
+Volcarona @ Life Orb  
+Ability: Flame Body  
+EVs: 16 HP / 204 Def / 36 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Bug Buzz  
+- Heat Wave  
+- Rage Powder  
+
+=== [gen7doublesou] Titled 8775 ===
+			
+
+Scrafty @ Assault Vest  
+Ability: Intimidate  
+EVs: 248 HP / 24 Atk / 52 Def / 176 SpD / 8 Spe  
+Careful Nature  
+- Fake Out  
+- Crunch  
+- Drain Punch  
+- Head Smash  			
+
+Metagross-Mega @ Metagrossite  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Stomping Tantrum  
+- Zen Headbutt  
+- Ally Switch  			
+
+Volcarona @ Life Orb  
+Ability: Flame Body  
+EVs: 16 HP / 204 Def / 36 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Bug Buzz  
+- Heat Wave  
+- Rage Powder  			
+
+Zygarde @ Choice Band  
+Ability: Aura Break  
+EVs: 52 HP / 252 Atk / 56 SpD / 148 Spe  
+Adamant Nature  
+- Thousand Arrows  
+- Rock Slide  
+- Superpower  
+- Extreme Speed  
+
+=== [gen7doublesou] Titled 2588 ===
+			
+
+Victini @ Life Orb  
+Ability: Victory Star  
+EVs: 16 HP / 92 Def / 184 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Blue Flare  
+- Psychic  
+- Taunt  			
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Protect  
+- Play Rough  
+- Iron Head  
+- Sucker Punch  			
+
+Nihilego @ Air Balloon  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Power Gem  
+- Sludge Bomb  
+- Acid Spray  
+- Hidden Power [Ice]  			
+
+Amoonguss @ Yache Berry  
+Ability: Effect Spore  
+EVs: 248 HP / 92 Def / 168 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Protect  
+- Rage Powder  
+- Spore  
+- Sludge Bomb  
+
+=== [gen7doublesou] Titled 9897 ===
+			
+
+Tapu Fini @ Weakness Policy  
+Ability: Misty Surge  
+EVs: 252 HP / 64 Def / 52 SpA / 140 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Hydro Pump  
+- Moonblast  
+- Icy Wind  			
+
+tick tick (Kartana) @ Life Orb  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Protect  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  			
+
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Protect  
+- Diamond Storm  
+- Moonblast  
+- Hidden Power [Fire]  			
+
+Victini @ Life Orb  
+Ability: Victory Star  
+EVs: 16 HP / 92 Def / 184 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Blue Flare  
+- Psychic  
+- Taunt  
+
+=== [gen7doublesou] Titled 107 ===
+			
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Overheat  
+- Heat Wave  
+- Solar Beam  			
+
+Tapu Bulu @ Life Orb  
+Ability: Grassy Surge  
+EVs: 4 HP / 252 Atk / 164 SpD / 88 Spe  
+Adamant Nature  
+- Protect  
+- Wood Hammer  
+- Superpower  
+- Rock Slide  			
+
+Genesect @ Life Orb  
+Ability: Download  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ally Switch  
+- Bug Buzz  
+- Flash Cannon  
+- Flamethrower  			
+
+Kyurem-Black @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Dragon Claw  
+- Ice Beam  
+- Fusion Bolt  
+- Rock Slide  
+
+=== [gen7doublesou] Titled 7085 ===
+			
+
+Scrafty @ Figy Berry  
+Ability: Intimidate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Fake Out  
+- Stone Edge  
+- Poison Jab  
+- Drain Punch  			
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Overheat  
+- Hidden Power [Ice]  
+- Trick  			
+
+Tapu Fini @ Weakness Policy  
+Ability: Misty Surge  
+EVs: 252 HP / 64 Def / 52 SpA / 140 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Hydro Pump  
+- Moonblast  
+- Icy Wind  			
+
+Kartana @ Life Orb  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Protect  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+
+=== [gen7doublesou] Titled 2062 ===
+			
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 24 HP / 252 SpA / 4 SpD / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Bug Buzz  
+- Flash Cannon  
+- Flamethrower  
+- Thunderbolt  			
+
+Aerodactyl-Mega @ Aerodactylite  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Protect  
+- Rock Slide  
+- Sky Drop  
+- Earthquake  			
+
+Tapu Fini @ Weakness Policy  
+Ability: Misty Surge  
+EVs: 252 HP / 64 Def / 52 SpA / 140 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Hydro Pump  
+- Moonblast  
+- Icy Wind  			
+
+Zeraora @ Life Orb  
+Ability: Volt Absorb  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Plasma Fists  
+- Close Combat  
+- Knock Off  
+
+=== [gen7doublesou] Titled 4685 ===
+			
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Dark Pulse  
+- Sludge Bomb  
+- Focus Blast  			
+
+Diancie @ Weakness Policy  
+Ability: Clear Body  
+EVs: 252 HP / 140 Atk / 116 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Protect  
+- Trick Room  
+- Diamond Storm  
+- Moonblast  			
+
+Zygarde @ Choice Band  
+Ability: Aura Break  
+EVs: 52 HP / 252 Atk / 56 SpD / 148 Spe  
+Adamant Nature  
+- Thousand Arrows  
+- Rock Slide  
+- Superpower  
+- Extreme Speed  			
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Overheat  
+- Heat Wave  
+- Solar Beam  
+
+=== [gen7doublesou] Titled 1968 ===
+			
+
+@eggs play me (Lopunny-Mega) (F) @ Lopunnite  
+Ability: Limber  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Return  
+- Low Kick  
+- Ice Punch  			
+
+@eggs @eggs @eggs (Victini) @ Life Orb  
+Ability: Victory Star  
+EVs: 16 HP / 92 Def / 148 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Blue Flare  
+- Psychic  
+- Taunt  			
+
+@eggs oras (Amoonguss) @ Payapa Berry  
+Ability: Effect Spore  
+EVs: 252 HP / 104 Def / 40 SpA / 112 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Protect  
+- Spore  
+- Rage Powder  
+- Sludge Bomb  			
+
+@eggs play oras (Tapu Fini) @ Weakness Policy  
+Ability: Misty Surge  
+Shiny: Yes  
+EVs: 252 HP / 64 Def / 52 SpA / 140 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Hydro Pump  
+- Moonblast  
+- Icy Wind  
+
+=== [gen7doublesou] Titled 1965 ===
+			
+
+unflip the table (Terrakion) @ Life Orb  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Protect  
+- Close Combat  
+- Stone Edge  
+- Rock Slide  			
+
+Genesect @ Life Orb  
+Ability: Download  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ally Switch  
+- Bug Buzz  
+- Thunderbolt  
+- Flamethrower  			
+
+Landorus-Therian (M) @ Yache Berry  
+Ability: Intimidate  
+EVs: 48 HP / 124 SpA / 84 SpD / 252 Spe  
+Timid Nature  
+IVs: 1 Atk  
+- Protect  
+- Earth Power  
+- Sludge Bomb  
+- Hidden Power [Ice]  			
+
+unflip it PLEASE (Kyurem-Black) @ Power Herb  
+Ability: Teravolt  
+EVs: 224 HP / 24 Atk / 84 SpD / 176 Spe  
+Adamant Nature  
+- Protect  
+- Freeze Shock  
+- Dragon Claw  
+- Fusion Bolt  
+
+=== [gen7doublesou] Titled 2412 ===
+			
+
+Tapu Koko @ Assault Vest  
+Ability: Electric Surge  
+EVs: 64 HP / 172 SpA / 140 SpD / 132 Spe  
+Modest Nature  
+- Thunderbolt  
+- Wild Charge  
+- Nature's Madness  
+- Hidden Power [Ice]  			
+
+Landorus-Therian (M) @ Yache Berry  
+Ability: Intimidate  
+EVs: 16 HP / 96 Atk / 80 Def / 64 SpA / 252 Spe  
+Timid Nature  
+- Protect  
+- Earth Power  
+- Sludge Bomb  
+- U-turn  			
+
+Metagross-Mega @ Metagrossite  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Stomping Tantrum  
+- Zen Headbutt  
+- Ally Switch  			
+
+Volcanion @ Shuca Berry  
+Ability: Water Absorb  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Overheat  
+- Steam Eruption  
+- Substitute  
+
+=== [gen7doublesou] Titled 9629 ===
+			
+
++XSTATIC COLD: 2v (Tapu Koko) @ Electric Seed  
+Ability: Electric Surge  
+EVs: 16 HP / 88 Def / 152 SpA / 252 Spe  
+Modest Nature  
+- Protect  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- U-turn  			
+
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 172 Atk / 84 SpD / 252 Spe  
+Jolly Nature  
+- Protect  
+- Dragon Dance  
+- Rock Slide  
+- Crunch  			
+
+Victini @ Life Orb  
+Ability: Victory Star  
+EVs: 16 HP / 92 Def / 148 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Blue Flare  
+- Psychic  
+- Taunt  			
+
+Kyurem-Black @ Choice Scarf  
+Ability: Teravolt  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Draco Meteor  
+- Ice Beam  
+- Fusion Bolt  
+- Earth Power  
+
+=== [gen7doublesou] Titled 5733 ===
+			
+
+Landorus (M) @ Life Orb  
+Ability: Sheer Force  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Protect  
+- Earth Power  
+- Rock Slide  
+- Sludge Bomb  			
+
+Victini @ Life Orb  
+Ability: Victory Star  
+EVs: 16 HP / 92 Def / 148 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Blue Flare  
+- Psychic  
+- Taunt  			
+
+Amoonguss @ Payapa Berry  
+Ability: Effect Spore  
+EVs: 252 HP / 104 Def / 40 SpA / 112 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Protect  
+- Spore  
+- Rage Powder  
+- Sludge Bomb  			
+
+Lopunny-Mega (F) @ Lopunnite  
+Ability: Limber  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Return  
+- Low Kick  
+- Ice Punch  
+
+=== [gen7doublesou] Titled 1019 ===
+			
+
+Genesect @ Life Orb  
+Ability: Download  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Bug Buzz  
+- Flash Cannon  
+- Flamethrower  			
+
+Zeraora @ Expert Belt  
+Ability: Volt Absorb  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Plasma Fists  
+- Knock Off  
+- Close Combat  			
+
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 172 Atk / 84 SpD / 252 Spe  
+Jolly Nature  
+- Protect  
+- Dragon Dance  
+- Rock Slide  
+- Crunch  			
+
+Tapu Fini @ Weakness Policy  
+Ability: Misty Surge  
+Shiny: Yes  
+EVs: 252 HP / 64 Def / 52 SpA / 140 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Hydro Pump  
+- Moonblast  
+- Icy Wind  
+
+=== [gen7doublesou] Titled 3059 ===
+			
+
+Tapu Fini @ Weakness Policy  
+Ability: Misty Surge  
+EVs: 112 HP / 252 SpA / 72 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Grass Knot  
+- Protect  
+- Moonblast  
+- Hydro Pump  			
+
+Victini @ White Herb  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- V-create  
+- Bolt Strike  
+- Glaciate  
+- Protect  			
+
+Metagross-Mega @ Metagrossite  
+Ability: Clear Body  
+EVs: 76 HP / 244 Atk / 4 SpD / 184 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Protect  
+- Ice Punch  
+- Stomping Tantrum  			
+
+Hoopa-Unbound @ Choice Scarf  
+Ability: Magician  
+EVs: 4 HP / 40 Atk / 216 Def / 248 Spe  
+Naive Nature  
+- Hyperspace Fury  
+- Knock Off  
+- Hyperspace Hole  
+- Trick  
+
+=== [gen7doublesou] Titled 126 ===
+			
+
+Suicune @ Wiki Berry  
+Ability: Inner Focus  
+EVs: 252 HP / 48 Def / 44 SpA / 108 SpD / 56 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Calm Mind  
+- Rest  
+- Tailwind  			
+
+Landorus (M) @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Protect  
+- Sludge Bomb  
+- Hidden Power [Ice]  			
+
+Victini @ Expert Belt  
+Ability: Victory Star  
+EVs: 172 HP / 208 Atk / 128 Spe  
+Jolly Nature  
+- Power-Up Punch  
+- V-create  
+- Bolt Strike  
+- Glaciate  			
+
+Tapu Bulu @ Life Orb  
+Ability: Grassy Surge  
+EVs: 168 HP / 140 Atk / 88 SpD / 112 Spe  
+Adamant Nature  
+- Wood Hammer  
+- Protect  
+- Superpower  
+- Rock Slide  
+
+=== [gen7doublesou] Titled 8689 ===
+			
+
+Landorus (M) @ Life Orb  
+Ability: Sheer Force  
+EVs: 12 Def / 244 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Focus Blast  
+- Protect  
+- Hidden Power [Ice]  			
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+- Wish  
+- Ally Switch  
+- Seismic Toss  
+- Toxic  			
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Play Rough  
+- Iron Head  
+- Protect  
+- Sucker Punch  			
+
+Tapu Bulu @ Occa Berry  
+Ability: Grassy Surge  
+EVs: 252 HP / 56 Atk / 116 SpD / 84 Spe  
+Adamant Nature  
+- Wood Hammer  
+- Rock Slide  
+- Swords Dance  
+- Protect  
+
+=== [gen7doublesou] Titled 9560 ===
+			
+
+Chansey @ Eviolite  
+Ability: Healer  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+- Soft-Boiled  
+- Toxic  
+- Seismic Toss  
+- Ally Switch  			
+
+Tapu Fini @ Wiki Berry  
+Ability: Misty Surge  
+EVs: 252 HP / 32 Def / 132 SpA / 92 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Moonblast  
+- Heal Pulse  
+- Protect  			
+
+Tapu Bulu @ Occa Berry  
+Ability: Grassy Surge  
+EVs: 252 HP / 56 Atk / 116 SpD / 84 Spe  
+Adamant Nature  
+- Wood Hammer  
+- Rock Slide  
+- Swords Dance  
+- Protect  			
+
+Metagross-Mega @ Metagrossite  
+Ability: Clear Body  
+EVs: 76 HP / 244 Atk / 4 SpD / 184 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Protect  
+- Ice Punch  
+- Stomping Tantrum  
+
+=== [gen7doublesou] Titled 6853 ===
+			
+
+Landorus-Therian (M) @ Yache Berry  
+Ability: Intimidate  
+EVs: 80 HP / 120 Def / 252 SpA / 48 SpD / 8 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Earth Power  
+- Hidden Power [Ice]  
+- Psychic  			
+
+Suicune @ Wiki Berry  
+Ability: Inner Focus  
+EVs: 248 HP / 48 Def / 88 SpA / 64 SpD / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Tailwind  
+- Scald  			
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Adamant Nature  
+- V-create  
+- Zen Headbutt  
+- Bolt Strike  
+- Glaciate  			
+
+Metagross-Mega @ Metagrossite  
+Ability: Clear Body  
+EVs: 76 HP / 244 Atk / 4 SpD / 184 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Protect  
+- Ice Punch  
+- Rock Slide  
+
+=== [gen7doublesou] Titled 1390 ===
+			
+
+Incineroar @ Assault Vest  
+Ability: Intimidate  
+EVs: 252 HP / 124 Atk / 16 Def / 116 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- Thunder Punch  			
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Protect  
+- Play Rough  
+- Rock Slide  
+- Sucker Punch  			
+
+Cresselia (F) @ Mental Herb  
+Ability: Levitate  
+EVs: 248 HP / 104 Def / 156 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Trick Room  
+- Ice Beam  
+- Moonlight  
+- Psychic  			
+
+Volcanion @ Air Balloon  
+Ability: Water Absorb  
+EVs: 172 HP / 140 Def / 196 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Protect  
+- Overheat  
+- Steam Eruption  
+- Heat Wave  
+
+=== [gen7doublesou] Titled 3842 ===
+			
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Protect  
+- Play Rough  
+- Rock Slide  
+- Sucker Punch  			
+
+Entei @ Assault Vest  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 Atk / 60 SpD / 196 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Bulldoze  
+- Extreme Speed  
+- Flare Blitz  			
+
+Porygon2 @ Eviolite  
+Ability: Download  
+EVs: 252 HP / 132 Def / 32 SpA / 92 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Thunderbolt  
+- Ice Beam  
+- Trick Room  
+- Recover  			
+
+Tapu Fini @ Weakness Policy  
+Ability: Misty Surge  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Scald  
+- Moonblast  
+- Nature's Madness  
+- Protect  
+
+=== [gen7doublesou] Titled 81 ===
+			
+
+Line it up (Hoopa-Unbound) @ Choice Scarf  
+Ability: Magician  
+EVs: 4 HP / 40 Atk / 216 Def / 248 Spe  
+Naive Nature  
+- Hyperspace Fury  
+- Hyperspace Hole  
+- Knock Off  
+- Trick  			
+
+I went back myself (Kyurem-Black) @ Assault Vest  
+Ability: Teravolt  
+EVs: 248 HP / 56 Atk / 56 Def / 68 SpA / 80 Spe  
+Relaxed Nature  
+- Dragon Pulse  
+- Earth Power  
+- Fusion Bolt  
+- Icy Wind  			
+
+reverse enthropy (Tapu Fini) @ Aguav Berry  
+Ability: Misty Surge  
+EVs: 252 HP / 48 Def / 168 SpA / 24 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Heal Pulse  
+- Scald  
+- Moonblast  
+- Protect  			
+
+Close the opera (Tapu Bulu) @ Life Orb  
+Ability: Grassy Surge  
+EVs: 120 HP / 252 Atk / 136 Spe  
+Adamant Nature  
+- Wood Hammer  
+- Superpower  
+- Protect  
+- Rock Slide  
+
+=== [gen7doublesou] Titled 1541 ===
+			
+
+Sator (Suicune) @ Mental Herb  
+Ability: Inner Focus  
+EVs: 216 HP / 4 Def / 212 SpA / 20 SpD / 56 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Tailwind  
+- Icy Wind  
+- Scald  
+- Protect  			
+
+Arepo (Incineroar) @ Assault Vest  
+Ability: Intimidate  
+EVs: 252 HP / 52 Def / 148 SpD / 56 Spe  
+Careful Nature  
+- Fake Out  
+- Flare Blitz  
+- Thunder Punch  
+- Knock Off  			
+
+Opera (Tapu Bulu) @ Life Orb  
+Ability: Grassy Surge  
+EVs: 120 HP / 252 Atk / 136 Spe  
+Adamant Nature  
+- Superpower  
+- Wood Hammer  
+- Protect  
+- Rock Slide  			
+
+Rotas (Zygarde) @ Choice Band  
+Ability: Aura Break  
+EVs: 240 HP / 140 Atk / 20 Def / 92 SpD / 16 Spe  
+Impish Nature  
+- Extreme Speed  
+- Thousand Arrows  
+- Stone Edge  
+- Superpower  
+
+=== [gen7doublesou] Titled 8922 ===
+			
+
+Electric zoomy (Tapu Koko) @ Life Orb  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Dazzling Gleam  
+- Nature's Madness  
+- Protect  			
+
+Adorable ice giant (Kyurem-Black) @ Life Orb  
+Ability: Teravolt  
+EVs: 68 Atk / 188 SpA / 252 Spe  
+Naive Nature  
+- Dragon Claw  
+- Ice Beam  
+- Earth Power  
+- Fusion Bolt  			
+
+Sky doggy (Landorus-Therian) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Hidden Power [Ice]  			
+
+Big scary dragon (Charizard-Mega-Y) @ Charizardite Y  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Overheat  
+- Solar Beam  
+- Blast Burn  
+- Protect  
+
+=== [gen7doublesou] Titled 854 ===
+			
+
+scary bug :( (Volcarona) @ Life Orb  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Heat Wave  
+- Hidden Power [Ice]  
+- Protect  			
+
+scary plant :( (Amoonguss) @ Iapapa Berry  
+Ability: Effect Spore  
+EVs: 252 HP / 76 Def / 180 SpD  
+Sassy Nature  
+IVs: 0 Atk  
+- Spore  
+- Rage Powder  
+- Energy Ball  
+- Sludge Bomb  			
+
+scary dog :( (Landorus-Therian) (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Hidden Power [Ice]  			
+
+scary monster :( (Tyranitar-Mega) @ Tyranitarite  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 SpA  
+- Dragon Dance  
+- Rock Slide  
+- Crunch  
+- Protect  
+
+=== [gen7doublesou] Titled 5047 ===
+			
+
+cute! (Tyranitar-Mega) @ Tyranitarite  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 SpA  
+- Dragon Dance  
+- Rock Slide  
+- Crunch  
+- Protect  			
+
+adorable! (Excadrill) @ Life Orb  
+Ability: Sand Rush  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+IVs: 0 SpA  
+- Earthquake  
+- Rock Slide  
+- Iron Head  
+- Protect  			
+
+hugs! (Kyurem-Black) @ Life Orb  
+Ability: Teravolt  
+EVs: 68 Atk / 188 SpA / 252 Spe  
+Naive Nature  
+- Dragon Claw  
+- Ice Beam  
+- Earth Power  
+- Fusion Bolt  			
+
+kisses! (Tapu Koko) @ Life Orb  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Dazzling Gleam  
+- Nature's Madness  
+- Protect  
